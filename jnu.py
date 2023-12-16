@@ -4,37 +4,37 @@
 # In[3]:
 
 
-get_ipython().system('pip install wordcloud')
+# get_ipython().system('pip install wordcloud')
 
 
-# In[4]:
+# # In[4]:
 
 
-get_ipython().system('pip install tld') 
+# get_ipython().system('pip install tld') 
 
 
-# In[5]:
+# # In[5]:
 
 
-get_ipython().system('pip install torch')
+# get_ipython().system('pip install torch')
 
 
-# In[6]:
+# # In[6]:
 
 
-get_ipython().system('pip install transformers')
+# get_ipython().system('pip install transformers')
 
 
-# In[29]:
+# # In[29]:
 
 
-get_ipython().system('pip install googlesearch-python')
+# get_ipython().system('pip install googlesearch-python')
 
 
-# In[7]:
+# # In[7]:
 
 
-get_ipython().system('pip install simpletransformers')
+# get_ipython().system('pip install simpletransformers')
 
 
 # In[8]:
