@@ -10,7 +10,7 @@ get_ipython().system('pip install wordcloud')
 # In[4]:
 
 
-pip install tld 
+get_ipython().system('pip install tld') 
 
 
 # In[5]:
@@ -22,7 +22,7 @@ get_ipython().system('pip install torch')
 # In[6]:
 
 
-pip install transformers
+get_ipython().system('pip install transformers')
 
 
 # In[29]:
