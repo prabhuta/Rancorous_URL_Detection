@@ -1,6 +1,6 @@
 ## Rancorous_URL_Detection
 
-Rancorous URL Detection is a machine learning project utilizing natural language processing (NLP) to identify and classify malicious URLs. The project is implemented in a Jupyter Notebook.
+Rancorous URL Detection is a machine learning initiative that employs natural language processing (NLP) to detect and categorize malicious URLs. The project, implemented in a Jupyter Notebook, utilizes advanced models such as BERT, RoBERTa, and XLNET. The data is trained and tested using these models, and their accuracy, precision, and recall are calculated. The model with the highest accuracy is selected for final use.
 
 ## Installation
 1. Clone the repository:
